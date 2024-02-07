@@ -62,7 +62,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png" alt="wordpress" width="40" height="40"/>
 </a>
 <a href="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI" target="blank">
-    <img src="https://juanjoselo.files.wordpress.com/2017/10/jtr.png" alt="Jonh the ripper" height="30" width="40" />
+    <img src="https://dabad.es/wp-content/uploads/2023/02/John-the-ripper.jpg" alt="Jonh the ripper" height="30" width="40" />
   </a>
 
 
