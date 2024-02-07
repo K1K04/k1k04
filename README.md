@@ -4,6 +4,8 @@
   <img src="https://kiko4da4.files.wordpress.com/2022/09/friendly-face.png?w=1024" width="300" style="object-fit: cover;">
 </p>
 
+<hr style="border-top: 1px solid #0e75b6;">
+
 ### Apasionado de las redes, ciberseguridad y Bash.
 
 <p align="left">
@@ -11,6 +13,8 @@
 </p>
 
 - 📚🖥️ Soy estudiante del IES Gonzalo Nazareno [Administracion de Sistemas Operativos en Red(ASIR)](https://dit.gonzalonazareno.org/gestiona/)
+
+<hr style="border-top: 1px solid #0e75b6;">
 
 ### Connect with me:
 <p align="left">
@@ -21,6 +25,8 @@
     <img src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI" alt="gmail" height="30" width="40" style="object-fit: cover;">
   </a>
 </p>
+
+<hr style="border-top: 1px solid #0e75b6;">
 
 ### Languages and Tools:
 <p align="left">
