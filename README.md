@@ -17,9 +17,9 @@
   <a href="https://linkedin.com/in/francisco javier doblado" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francisco javier doblado" height="30" width="40" />
   </a>
-  <a href="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI" target="blank">
-    <img src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI" alt="gmail" height="30" width="40" />
-  </a>
+  <a href="mailto:kiko4da@gmail.com">
+  <img src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI" alt="gmail" height="30" width="40" />
+</a>
 </p>
 
 ### Languages and Tools:
