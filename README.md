@@ -1,7 +1,7 @@
 # Hola 👋, Soy Francisco Javier Doblado
 
 <p align="center">
-  <img src="https://kiko4da4.files.wordpress.com/2022/09/friendly-face.png?w=1024" width="300">
+  <img src="https://kiko4da4.files.wordpress.com/2022/09/friendly-face.png?w=1024" width="300" style="object-fit: cover;">
 </p>
 
 ### Apasionado de las redes, ciberseguridad y Bash.
@@ -18,8 +18,8 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francisco javier doblado" height="30" width="40" />
   </a>
   <a href="mailto:kiko4da@gmail.com">
-  <img src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI" alt="gmail" height="30" width="40" />
-</a>
+    <img src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI" alt="gmail" height="30" width="40" style="object-fit: cover;">
+  </a>
 </p>
 
 ### Languages and Tools:
