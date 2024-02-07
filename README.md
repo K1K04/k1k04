@@ -1,10 +1,8 @@
 # Hola 👋, Soy Francisco Javier Doblado
 
 <p align="center">
-  <img src="https://kiko4da4.files.wordpress.com/2022/09/friendly-face.png?w=1024" width="300" style="object-fit: cover;">
+  <img src="https://kiko4da4.files.wordpress.com/2022/09/friendly-face.png?w=1024" width="300">
 </p>
-
-<hr style="border-top: 1px solid #0e75b6;">
 
 ### Apasionado de las redes, ciberseguridad y Bash.
 
@@ -14,19 +12,15 @@
 
 - 📚🖥️ Soy estudiante del IES Gonzalo Nazareno [Administracion de Sistemas Operativos en Red(ASIR)](https://dit.gonzalonazareno.org/gestiona/)
 
-<hr style="border-top: 1px solid #0e75b6;">
-
 ### Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/francisco javier doblado" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francisco javier doblado" height="30" width="40" />
   </a>
-  <a href="mailto:kiko4da@gmail.com">
-    <img src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI" alt="gmail" height="30" width="40" style="object-fit: cover;">
+  <a href="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI" target="blank">
+    <img src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI" alt="gmail" height="30" width="40" />
   </a>
 </p>
-
-<hr style="border-top: 1px solid #0e75b6;">
 
 ### Languages and Tools:
 <p align="left">
@@ -64,6 +58,14 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
+  <a href="https://www.wordpress.com" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png" alt="wordpress" width="40" height="40"/>
+</a>
+<a href="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI" target="blank">
+    <img src="https://juanjoselo.files.wordpress.com/2017/10/jtr.png" alt="Jonh the ripper" height="30" width="40" />
+  </a>
+
+
 </p>
 
 <p align="center">
@@ -77,3 +79,4 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=k1k04&" alt="k1k04" />
 </p>
+
