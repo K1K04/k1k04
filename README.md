@@ -75,3 +75,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=k1k04&" alt="k1k04" />
 </p>
 
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/k1k04.png" alt="Your Image Badge" />
+</p>
+
+
+
